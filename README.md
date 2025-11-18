@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/i8vhkDUi1wsAAAAj/wave-joe.gif" width="35" />
 
-<!--
-**MambaXan/MambaXan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marlen, a FrontEnd Developer based in Kyrgyzstan 🇰🇬
 
-Here are some ideas to get you started:
+I love building cool things that solve real problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack:** React, SCSS, Node.JS  
+**Currently learning:** C programming language  
+**Passionate about:** clean code & user experience
+
+Always learning, always building 🚀
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/marlen-istambaev-944367350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
