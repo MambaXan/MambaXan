@@ -1,6 +1,6 @@
 ### Hey&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/i8vhkDUi1wsAAAAj/wave-joe.gif" width="35" />
 
-I'm Marlen, a junior FrontEnd Developer based in Italy
+I'm Marlen, a Junior Software Engineer based in Italy
 
 I build web applications with a focus on clean UI, usability and solving real world problems
 
