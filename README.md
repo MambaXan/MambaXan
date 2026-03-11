@@ -5,6 +5,5 @@ I'm Marlen, a Junior Software Engineer based in Italy
 I build web applications with a focus on clean UI, usability and solving real world problems
 
 **Tech stack:** TypeScript, React, SCSS, Python, PostgreSQL, FastAPI
-**Interested in** clean code, component architecture and user experience
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/marlen-istambaev-8581993a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
